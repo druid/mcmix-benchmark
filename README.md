@@ -4,6 +4,8 @@ This repository contains SecreC benchmark code used for the paper:
 
 Nikolaos Alexopoulos, Aggelos Kiayias, Riivo Talviste, and Thomas Zacharias. **MCMix: Anonymous messaging via secure multiparty computation.** In _26th USENIX Security Symposium (USENIX Security 17)_, pages 1217--1234, Vancouver, BC, 2017. USENIX Association. ([PDF][1], [eprint][2])
 
+This project has received funding from the European Union's Horizon 2020 Research and Innovation Programme under Grant Agreement No 653497.
+
 ## Requirements
 
 * [Sharemind MPC](https://sharemind.cyber.ee/) Application or Academic Server
